@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<a href="/sample1/index.jsp">index1</a>
+<h2>HelloWorld!</h2>
+<a href="/webapps/sample1/index.jsp">index1</a>
 </body>
 </html>
